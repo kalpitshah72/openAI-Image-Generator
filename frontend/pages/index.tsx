@@ -49,9 +49,7 @@ export default function Home() {
     } catch (error : any) {
       setError(error)
     }
-
-    setPrompt('')
-    setSize('')
+    
   }
 
 
